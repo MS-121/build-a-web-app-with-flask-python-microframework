@@ -12,9 +12,9 @@ This repo contains the course source code: a file-based wiki written in Python u
 
 ### Launching the App
 
-1. cd to the directory where requirements.txt is located.
+1. cd to the directory where **requirements.txt** is located.
 2. activate your virtualenv.
-3. run: pip install -r requirements.txt in your shell.
+3. run `pip install -r requirements.txt` in your shell.
 ------
 
 These are source files for the Envato Tuts+ course: [Build a Web App With Flask Python Microframework][published url]
